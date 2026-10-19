@@ -1,0 +1,8 @@
+{
+  "name": "Java Employee Maaş Hesaplayıcı - Enes Öztürk",
+  "description": "Java Employee sınıfı maaş, vergi, bonus ve zam hesaplama simülatörü ve tam Java kaynak kodu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
