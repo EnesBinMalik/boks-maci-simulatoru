@@ -1,0 +1,6 @@
+{
+  "name": "Üniversite UML Sınıf Diyagramı - Enes Öztürk",
+  "description": "Üniversite, sınıflık, çalışma ofisi, departman, çalışan, profesör ve memur sınıflarını modelleyen interaktif UML sınıf diyagramı ve analiz aracı. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
