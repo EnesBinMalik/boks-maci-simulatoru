@@ -1,0 +1,6 @@
+{
+  "name": "Boks Maçı Simülatörü - Enes Öztürk",
+  "description": "Java OOP ile geliştirilmiş, ilk vuruş yapanı %50 olasılıkla belirleyen interaktif boks maçı simülasyonu ve ödev çözümü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
