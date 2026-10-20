@@ -1,0 +1,6 @@
+{
+  "name": "Geometrik Alan & Hacim Hesaplama (C# Console)",
+  "description": "Enes Öztürk imzalı, Single Responsibility ve DRY prensiplerine uygun C# Console Alan, Çevre ve Hacim Hesaplama uygulaması, interaktif terminal simülatörü ve kaynak kodları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
