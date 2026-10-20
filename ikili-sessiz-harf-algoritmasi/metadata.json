@@ -1,0 +1,6 @@
+{
+  "name": "İkili Sessiz Harf Algoritması - Enes Öztürk",
+  "description": "Verilen string ifadede yan yana 2 sessiz harf kontrolü yapan konsol uygulaması ve interaktif analiz paneli. Telif Hakkı © Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
