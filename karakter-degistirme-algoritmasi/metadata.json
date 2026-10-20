@@ -1,0 +1,6 @@
+{
+  "name": "Karakter Değiştirme Algoritması",
+  "description": "Verilen string ifadede karakterleri bir önceki karakter ile yer değiştiren konsol uygulaması ve algoritma simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
