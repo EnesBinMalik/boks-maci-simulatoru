@@ -1,0 +1,6 @@
+{
+  "name": "Integer İkililerin Toplamı - Enes Öztürk",
+  "description": "Ekrandan girilen n tane integer ikililerin toplamını alan, sayılar farklıysa toplamlarını, aynıysa karesini yazdıran konsol uygulaması ve algoritma motoru. Enes Öztürk imzalı ve lisanslı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
