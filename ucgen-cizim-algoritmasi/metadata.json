@@ -1,0 +1,6 @@
+{
+  "name": "Üçgen Çizim Algoritması - Enes Öztürk",
+  "description": "Single Responsibility (SRP) ve DRY prensiplerine uygun, Enes Öztürk telif haklı interaktif konsol üçgen çizim ve mimari analiz uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
