@@ -1,0 +1,6 @@
+{
+  "name": "Console Algoritma 67 - Enes Öztürk",
+  "description": "67 eşik değerine göre fark ve mutlak kare toplamı hesaplayan console uygulaması ve interaktif simülatör. Enes Öztürk imzası ve telif hakkıyla hazırlanmıştır.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
