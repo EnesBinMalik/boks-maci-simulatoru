@@ -1,0 +1,6 @@
+{
+  "name": "Fibonacci Ortalama Hesaplayıcı | Enes Öztürk",
+  "description": "Kullanıcı derinliğine göre Fibonacci dizisi oluşturan, Single Responsibility Prensibi (SRP) ve temiz kod mimarisiyle ortalama hesaplayan etkili matematiksel uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
