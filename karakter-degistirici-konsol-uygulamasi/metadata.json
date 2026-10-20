@@ -1,0 +1,6 @@
+{
+  "name": "Karakter Değiştirici Konsol Uygulaması - Enes Öztürk",
+  "description": "Verilen string ifadede ilk ve son karakterlerin yerini değiştiren interaktif konsol uygulaması ve algoritma simülatörü. Enes Öztürk imzası ve telif haklarıyla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
